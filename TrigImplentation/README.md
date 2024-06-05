@@ -36,4 +36,4 @@ The program will print the absolute errors between the standard library function
 **Notes:**
 
 * The `precision` variable in the code controls the accuracy of the Taylor series expansion. Higher precision leads to smaller errors but also increases computation time.
-* This is a basic implementation
+* This is a basic implementation, but it suggests that the standard library uses **Taylor Series** due to the similarity in result
