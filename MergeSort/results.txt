@@ -1,0 +1,353 @@
+Sort: 582
+
+Sort: 869
+
+Sort: 999
+
+Sort: 746
+
+Sort: 762
+
+Sort: 663
+
+Sort: 614
+
+Sort: 608
+
+Sort: 569
+
+Sort: 728
+
+INPUT1: 714.0 microseconds
+
+Sort: 3649
+
+Sort: 6405
+
+Sort: 3182
+
+Sort: 3109
+
+Sort: 3227
+
+Sort: 3327
+
+Sort: 4047
+
+Sort: 3998
+
+Sort: 3542
+
+Sort: 3494
+
+INPUT2: 3798.0 microseconds
+
+Sort: 7606
+
+Sort: 7101
+
+Sort: 6940
+
+Sort: 7043
+
+Sort: 7065
+
+Sort: 6837
+
+Sort: 6959
+
+Sort: 7039
+
+Sort: 6970
+
+Sort: 7142
+
+INPUT3: 7070.2 microseconds
+
+Sort: 7044
+
+Sort: 7084
+
+Sort: 7381
+
+Sort: 7605
+
+Sort: 7304
+
+Sort: 7643
+
+Sort: 7487
+
+Sort: 7544
+
+Sort: 8357
+
+Sort: 7090
+
+INPUT4: 7453.9 microseconds
+
+Sort: 9596
+
+Sort: 8942
+
+Sort: 9335
+
+Sort: 9573
+
+Sort: 9032
+
+Sort: 9411
+
+Sort: 11038
+
+Sort: 10079
+
+Sort: 10085
+
+Sort: 12242
+
+INPUT5: 9933.3 microseconds
+
+Sort: 40555
+
+Sort: 39170
+
+Sort: 39972
+
+Sort: 40883
+
+Sort: 39104
+
+Sort: 39000
+
+Sort: 39537
+
+Sort: 41635
+
+Sort: 40471
+
+Sort: 39405
+
+INPUT6: 39973.2 microseconds
+
+Sort: 375725
+
+Sort: 378087
+
+Sort: 381376
+
+Sort: 408105
+
+Sort: 379998
+
+Sort: 377242
+
+Sort: 399227
+
+Sort: 382109
+
+Sort: 377902
+
+Sort: 379396
+
+INPUT7: 383916.7 microseconds
+
+Sort: 4113665
+
+Sort: 4091712
+
+Sort: 4050688
+
+Sort: 3998498
+
+Sort: 4091146
+
+Sort: 3964021
+
+Sort: 4070250
+
+Sort: 4012158
+
+Sort: 3993420
+
+Sort: 3983227
+
+INPUT8: 4036878.5 microseconds
+
+
+Sort: 1146
+
+Sort: 627
+
+Sort: 557
+
+Sort: 565
+
+Sort: 889
+
+Sort: 904
+
+Sort: 926
+
+Sort: 681
+
+Sort: 636
+
+Sort: 565
+
+INPUT1: 749.6 microseconds
+
+Sort: 6324
+
+Sort: 4594
+
+Sort: 3662
+
+Sort: 3574
+
+Sort: 3843
+
+Sort: 3635
+
+Sort: 3684
+
+Sort: 3589
+
+Sort: 3746
+
+Sort: 3579
+
+INPUT2: 4023.0 microseconds
+
+Sort: 7335
+
+Sort: 7237
+
+Sort: 7771
+
+Sort: 7067
+
+Sort: 7462
+
+Sort: 13559
+
+Sort: 14411
+
+Sort: 14266
+
+Sort: 7693
+
+Sort: 6853
+
+INPUT3: 9365.4 microseconds
+
+Sort: 7105
+
+Sort: 6983
+
+Sort: 7270
+
+Sort: 8171
+
+Sort: 6775
+
+Sort: 7434
+
+Sort: 8406
+
+Sort: 7963
+
+Sort: 7629
+
+Sort: 7430
+
+INPUT4: 7516.6 microseconds
+
+Sort: 10195
+
+Sort: 10600
+
+Sort: 9941
+
+Sort: 10388
+
+Sort: 9975
+
+Sort: 10838
+
+Sort: 11616
+
+Sort: 9277
+
+Sort: 10800
+
+Sort: 10466
+
+INPUT5: 10409.6 microseconds
+
+Sort: 39452
+
+Sort: 39289
+
+Sort: 40325
+
+Sort: 40359
+
+Sort: 39822
+
+Sort: 37749
+
+Sort: 39763
+
+Sort: 40660
+
+Sort: 39885
+
+Sort: 40620
+
+INPUT6: 39792.4 microseconds
+
+Sort: 398614
+
+Sort: 410037
+
+Sort: 416407
+
+Sort: 397085
+
+Sort: 395693
+
+Sort: 399183
+
+Sort: 389230
+
+Sort: 403913
+
+Sort: 404306
+
+Sort: 412460
+
+INPUT7: 402692.8 microseconds
+
+Sort: 4157210
+
+Sort: 4012662
+
+Sort: 4091804
+
+Sort: 4206983
+
+Sort: 4135988
+
+Sort: 4133089
+
+Sort: 4128206
+
+Sort: 4174326
+
+Sort: 4110584
+
+Sort: 4119869
+
+INPUT8: 4127072.1 microseconds
+

@@ -1,0 +1,1017 @@
+desc: (none)
+cmd: ./main
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=241482882
+mem_heap_B=79247
+mem_heap_extra_B=89
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=450896636
+mem_heap_B=79247
+mem_heap_extra_B=89
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=737154974
+mem_heap_B=79247
+mem_heap_extra_B=89
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=943811000
+mem_heap_B=78775
+mem_heap_extra_B=73
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=5
+#-----------
+time=1072738783
+mem_heap_B=78775
+mem_heap_extra_B=73
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=1292640074
+mem_heap_B=78775
+mem_heap_extra_B=73
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=7
+#-----------
+time=1571205947
+mem_heap_B=78775
+mem_heap_extra_B=73
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=8
+#-----------
+time=1805824610
+mem_heap_B=78775
+mem_heap_extra_B=73
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=9
+#-----------
+time=2025756450
+mem_heap_B=91479
+mem_heap_extra_B=145
+mem_stacks_B=0
+heap_tree=peak
+n4: 91479 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 16384 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 16384 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 12288 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 12288 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 12288 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 12288 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7CE: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 31 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=10
+#-----------
+time=2188826766
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=11
+#-----------
+time=2455700405
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=12
+#-----------
+time=2633626257
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=13
+#-----------
+time=2841194988
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=14
+#-----------
+time=3048770259
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=15
+#-----------
+time=3167395241
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=16
+#-----------
+time=3404619731
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=17
+#-----------
+time=3611984003
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=18
+#-----------
+time=3817996004
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=19
+#-----------
+time=4024010195
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=20
+#-----------
+time=4154128115
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=21
+#-----------
+time=4327606333
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=22
+#-----------
+time=4501100900
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=23
+#-----------
+time=4761341060
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=24
+#-----------
+time=4934829374
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=25
+#-----------
+time=5108316075
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=26
+#-----------
+time=5292233724
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=27
+#-----------
+time=5477661512
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=28
+#-----------
+time=5616717672
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=29
+#-----------
+time=5848478551
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=30
+#-----------
+time=6080253742
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=31
+#-----------
+time=6265674848
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=32
+#-----------
+time=6407821013
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=33
+#-----------
+time=6692101885
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=34
+#-----------
+time=6914300987
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=35
+#-----------
+time=7062437513
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=36
+#-----------
+time=7210572024
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=37
+#-----------
+time=7432771695
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=38
+#-----------
+time=7654984690
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=39
+#-----------
+time=7803123779
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=40
+#-----------
+time=7951257647
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=41
+#-----------
+time=8099394128
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=42
+#-----------
+time=8247508421
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=43
+#-----------
+time=8543587150
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=44
+#-----------
+time=8839659143
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=45
+#-----------
+time=9061714674
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=46
+#-----------
+time=9357793456
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=47
+#-----------
+time=9579845821
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=48
+#-----------
+time=9727881805
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=49
+#-----------
+time=9962196665
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=50
+#-----------
+time=10085534727
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=51
+#-----------
+time=10208851320
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=52
+#-----------
+time=10332179643
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=53
+#-----------
+time=10455501640
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=54
+#-----------
+time=10578825578
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=55
+#-----------
+time=10702148468
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=56
+#-----------
+time=10825471669
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=57
+#-----------
+time=10948800362
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=58
+#-----------
+time=11072122820
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=59
+#-----------
+time=11195447396
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=60
+#-----------
+time=11343426520
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=61
+#-----------
+time=11491381173
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=62
+#-----------
+time=11639360811
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=63
+#-----------
+time=11787320024
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=64
+#-----------
+time=11935284669
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=65
+#-----------
+time=12083240413
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=66
+#-----------
+time=12231211689
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=67
+#-----------
+time=12379181848
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=68
+#-----------
+time=12527138612
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=69
+#-----------
+time=12675109472
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=70
+#-----------
+time=12823067594
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=71
+#-----------
+time=13020334097
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=72
+#-----------
+time=13217612299
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=73
+#-----------
+time=13414883894
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=74
+#-----------
+time=13612144439
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=75
+#-----------
+time=13809422087
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=76
+#-----------
+time=14006695304
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=77
+#-----------
+time=14203965584
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=78
+#-----------
+time=14364256869
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=79
+#-----------
+time=14561515107
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=80
+#-----------
+time=14758786736
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=81
+#-----------
+time=14956051346
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=82
+#-----------
+time=15153303482
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=83
+#-----------
+time=15350572662
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=84
+#-----------
+time=15547837587
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=detailed
+n4: 87445 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x490E939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 12288 0x4B2EBA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 12288 0x4B3DCDF: _IO_doallocbuf (genops.c:347)
+   n1: 8192 0x4B3CCDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 8192 0x4B3DD95: _IO_default_uflow (genops.c:362)
+     n1: 8192 0x4B130CF: __vfscanf_internal (vfscanf-internal.c:628)
+      n3: 8192 0x4B1221C: __isoc99_fscanf (isoc99_fscanf.c:30)
+       n1: 4096 0x10A7F3: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+        n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 4096 0x10AC12: main (in /home/mihai/Github/1KB_sort/main)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4B3CF5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 4096 0x4B3B6D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 4096 0x4B3B6D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 4096 0x4B25CA8: outstring_func (vfprintf-internal.c:239)
+       n1: 4096 0x4B25CA8: __vfprintf_internal (vfprintf-internal.c:1516)
+        n2: 4096 0x4B106C9: fprintf (fprintf.c:32)
+         n1: 4096 0x10A81F: MergeFiles(int, int, int) (in /home/mihai/Github/1KB_sort/main)
+          n0: 4096 0x10AEFE: main (in /home/mihai/Github/1KB_sort/main)
+         n0: 0 in 1 place, below massif's threshold (1.00%)
+ n1: 2360 0x4B2F64D: __fopen_internal (iofopen.c:65)
+  n1: 2360 0x4B2F64D: fopen@@GLIBC_2.2.5 (iofopen.c:86)
+   n0: 2360 in 6 places, all below massif's threshold (1.00%)
+ n0: 93 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=85
+#-----------
+time=15745099872
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=86
+#-----------
+time=15905382858
+mem_heap_B=87445
+mem_heap_extra_B=139
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=87
+#-----------
+time=16299905562
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=88
+#-----------
+time=16694415271
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=89
+#-----------
+time=17088942191
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=90
+#-----------
+time=17446478824
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=91
+#-----------
+time=18235503833
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=92
+#-----------
+time=18987560374
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=93
+#-----------
+time=20528634577
+mem_heap_B=87383
+mem_heap_extra_B=137
+mem_stacks_B=0
+heap_tree=empty
