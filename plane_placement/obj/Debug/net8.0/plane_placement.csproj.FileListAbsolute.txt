@@ -1,0 +1,15 @@
+/home/mihai/Github/Collection_of_random_projects/plane_placement/bin/Debug/net8.0/plane_placement
+/home/mihai/Github/Collection_of_random_projects/plane_placement/bin/Debug/net8.0/plane_placement.deps.json
+/home/mihai/Github/Collection_of_random_projects/plane_placement/bin/Debug/net8.0/plane_placement.runtimeconfig.json
+/home/mihai/Github/Collection_of_random_projects/plane_placement/bin/Debug/net8.0/plane_placement.dll
+/home/mihai/Github/Collection_of_random_projects/plane_placement/bin/Debug/net8.0/plane_placement.pdb
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.AssemblyInfoInputs.cache
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.AssemblyInfo.cs
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.csproj.CoreCompileInputs.cache
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.sourcelink.json
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.dll
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/refint/plane_placement.dll
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.pdb
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/plane_placement.genruntimeconfig.cache
+/home/mihai/Github/Collection_of_random_projects/plane_placement/obj/Debug/net8.0/ref/plane_placement.dll

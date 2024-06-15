@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4yCyu3vayr84bH0bKcPWnI0Dc4wX6V9tpUQtTRfafU+B9+eIheabn8mV4nqYQ+j6dUPqUkaeS/xtUs2Vwu8lBg==",
+  "success": true,
+  "projectFilePath": "/home/mihai/Github/Collection_of_random_projects/plane_placement/plane_placement.csproj",
+  "expectedPackageFiles": [
+    "/home/mihai/.nuget/packages/microsoft.netcore.app.host.linux-arm64/8.0.5/microsoft.netcore.app.host.linux-arm64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
