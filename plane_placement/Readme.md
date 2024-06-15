@@ -55,3 +55,20 @@ The result.txt file will contain the algorithm's best-found seating arrangement,
 ```
 
 The first line displays the fitness value (boarding time). The second line shows the number of groups used. The subsequent lines represent the seating arrangement, with each row depicting the group numbers assigned to the corresponding seats.
+
+## Unveiling the Algorithm's Strategy in bestResult.txt
+
+A closer look at the seating arrangement in `bestResult.txt` reveals a fascinating strategy employed by the algorithm. It seems the algorithm has strategically placed passengers with lower group numbers towards the back rows and sides of the aircraft.
+
+Here's a breakdown of this strategy:
+
+* **Group 1 Priority:** Passengers in Group 1 are primarily seated in the last few rows and side seats.
+* **Similar Strategy for Group 2:** Group 2 follows a similar pattern, with most passengers positioned in the back and on the sides.
+* **Front and Center for Higher Groups:** Groups with higher numbers, like 5 and 6, occupy the front rows and middle seats.
+
+This seating arrangement hints at a strategy to expedite boarding. Passengers with lower group numbers (boarding later) are placed towards the back and sides, minimizing congestion in the aisles as they board. Conversely, passengers with higher group numbers (boarding earlier) are positioned near the front and middle, allowing them quicker access to their seats.
+
+By strategically placing lower numbered groups towards the back and sides, the algorithm likely optimized the seating configuration to achieve two goals:
+
+1. **Reduced Aisle Congestion:** As later-boarding passengers (lower groups) have more walking space, aisle congestion is minimized.
+2. **Shorter Walking Distances:** Later-boarding passengers have shorter walking distances since their seats are located towards the periphery.
