@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plane_placement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e928b3f34c68a087da33ac982dab6c77252f2877")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69e7f54241f5d610f6009b091adcd2edc4f93a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("plane_placement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plane_placement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

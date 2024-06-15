@@ -81,7 +81,7 @@ sealed class Fitness{
     public float WaitTimeMax;
     public float WaitTimeMin;
     public float Value(Airplane a){
-        float result=0;
+        float result = 0;
         for(int i=0;i<NrTests;i++){
             result+=this.Simulation(a);
         }
