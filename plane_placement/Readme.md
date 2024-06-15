@@ -55,7 +55,3 @@ The result.txt file will contain the algorithm's best-found seating arrangement,
 ```
 
 The first line displays the fitness value (boarding time). The second line shows the number of groups used. The subsequent lines represent the seating arrangement, with each row depicting the group numbers assigned to the corresponding seats.
-
-### Contributing
-
-We welcome contributions to this project! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
